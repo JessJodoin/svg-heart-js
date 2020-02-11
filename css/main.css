@@ -1,0 +1,12 @@
+#egg-big {
+  transform-origin: 126px 120px;
+  transition: all .6s ease-in-out;
+}
+
+.move-left {
+  transform: rotate(25deg);
+}
+
+.move-right {
+  transform: rotate(-25deg);
+}
